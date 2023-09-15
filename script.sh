@@ -30,8 +30,8 @@ dias="2"
 servermessage="<h3><font color='red'>
 ▬▬▬▬▬▬▬▬✿Y▪0▪E✿▬▬▬▬▬▬▬▬
 </font></h3>
-<h4><font color='cyan'>
-↤↤↤↤↤ GCP SERVER BY Yoe ↦↦↦↦↦
+<h3><font color='cyan'>
+↤↤↤↤↤ GCP SERVER BY YoE ↦↦↦↦↦
 </font></h4>
 <h3><font color='red'>
 ▬▬▬▬▬▬▬▬✿Y▪@▪R✿▬▬▬▬▬▬▬▬
@@ -58,7 +58,7 @@ echo ""
 echo -e "\033[1;37m◈─────⪧ SSH ACCOUNT ⪦─────◈"
 echo ""
 echo -e "\033[1;32m◈ Host / IP   :⪧  \033[1;31m$IP"
-echo -e "\033[1;32m◈ Port        :⪧  \033[1;31m22"
+echo -e "\033[1;32m◈ Port        :⪧  \033[1;31m6000"
 echo -e "\033[1;32m◈ Username    :⪧  \033[1;31m$username"
 echo -e "\033[1;32m◈ Password    :⪧  \033[1;31m$password"
 echo -e "\033[1;32m◈ Login Limit :⪧  \033[1;31m$sshlimiter"
@@ -79,7 +79,7 @@ echo -e "${cyan} \ \______  \       \ \  \/\  \       \ \______  \              
 echo -e "${cyan}  \|_____|\  \       \ \  \/\  \       \|_____|\  \                           ${plain}"
 echo -e "${cyan}         \ \__\       \ \_______\             \ \__\                          ${plain}"
 echo -e "${cyan}          \|__|        \|_______|              \|__|                          ${plain}"
-echo -e "${green}Contact the developer https://t.me/nkka404 for more information              ${plain}"
+echo -e "${green}Contact the developer https://t.me/Yoeyar007 for more information              ${plain}"
 echo -e "${yellow}▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ ${plain}"
 
 echo -e "${cyan}i am Yoe 😎 ${plain}"
